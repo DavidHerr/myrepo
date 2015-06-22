@@ -1,2 +1,0 @@
-# myrepo
-StartUp class
